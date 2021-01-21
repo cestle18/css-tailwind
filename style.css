@@ -4,5 +4,12 @@
 
 .font-bungee {
   font-family: "Bungee Shade";
-  font-size: 40px;
+}
+
+.mw-1400px {
+  max-width: 1400px;
+}
+
+.mh-200px {
+  max-height: 200px;
 }

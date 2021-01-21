@@ -12667,6 +12667,10 @@ video {
   width: 1px;
 }
 
+.w-1\/2 {
+  width: 50%;
+}
+
 .w-full {
   width: 100%;
 }
@@ -14587,7 +14591,14 @@ video {
 
 .font-bungee {
   font-family: "Bungee Shade";
-  font-size: 40px;
+}
+
+.mw-1400px {
+  max-width: 1400px;
+}
+
+.mh-200px {
+  max-height: 200px;
 }
 
 @media (min-width: 640px) {
