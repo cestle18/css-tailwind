@@ -2,6 +2,8 @@
 
 Static pages integrated using HTML and [Tailwind](https://tailwindcss.com/). Wireframes have been previously done in [Figma](https://www.figma.com/file/4YqxUdrmg6rx2v9wJZerhB/Wireframe?node-id=0%3A1).
 
+This project was made by [Pierre Bandasavanh](https://github.com/BdsvhPierre) and I.
+
 ## 🛠 How to install
 
 You'll need Node and NPM, then clone the repo and install the dependencies:
@@ -43,6 +45,6 @@ We decided to go for a minimal design. The CTAs are highlighted using our primar
 
 ## Final words
 Thanks for your interest in my project, you can use the source code however you like. Please ping me if you do so, it would be a pleasure! 😊
-Thanks to my friend and co-worker [Pierre Bandasavanh]() for your help 🙏🏻
+Thanks to my friend and co-worker Pierre for your help 🙏🏻
 
 CB 🍇
