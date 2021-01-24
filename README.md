@@ -21,20 +21,25 @@ npm run tailwind
 ## 📄 Pages
 
 The idea was to integrate the main pages of an e-commerce website. We decided to go for the login, home, product, cart, checkout and order confirmation pages.
+We decided to go for a minimal design. The CTAs are highlighted using our primary color: pink.
 
 ### 🔑 Login
-
-We decided to go for a minimal design : center panel with two inputs for the credentials. The CTAs are highlighted using our primary color: pink.
+![login](https://github.com/cestle18/katsu-shop/raw/main/screenshots/login.png)
 
 ### 🏠 Homepage
+![homepage](https://github.com/cestle18/katsu-shop/raw/main/screenshots/homepage.png)
 
 ### 👕 Product page
+![product](https://github.com/cestle18/katsu-shop/raw/main/screenshots/product.png)
 
 ### 🛒 Cart
+![cart](https://github.com/cestle18/katsu-shop/raw/main/screenshots/cart.png)
 
 ### 💰 Checkout
+![checkout](https://github.com/cestle18/katsu-shop/raw/main/screenshots/checkout.png)
 
 ### ✅ Order confirmation 
+![confirmation](https://github.com/cestle18/katsu-shop/raw/main/screenshots/confirmation.png)
 
 ## Final words
 Thanks for your interest in my project, you can use the source code however you like. Please ping me if you do so, it would be a pleasure! 😊
