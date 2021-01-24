@@ -43,5 +43,6 @@ We decided to go for a minimal design. The CTAs are highlighted using our primar
 
 ## Final words
 Thanks for your interest in my project, you can use the source code however you like. Please ping me if you do so, it would be a pleasure! 😊
+Thanks to my friend and co-worker [Pierre Bandasavanh]() for your help 🙏🏻
 
 CB 🍇
